@@ -40,13 +40,13 @@ export default function Home() {
       <ImgCard  link ='https://www.youtube.com/watch?v=ql-R8jJ6a5I' thumb='https://img.youtube.com/vi/i4MDCciXoi4/hqdefault.jpg'/> */}
       {/* </div> 
       </div>*/}
-      <div className="navbar">
+      {/* <div className="navbar">
         
         <Topic name='Home'/>
         <Topic name='About Me'/>
         <Topic name='Contact Me'/>
         
-      </div>
+      </div> */}
       <div className=" bg-red-500 p-20 grid grid-cols-1 gap-16 sm:grid-cols-2 xl:grid-cols-3">
         <Link href="https://www.youtube.com/watch?v=1L0HgVvj244">
           <a target="_blank">
