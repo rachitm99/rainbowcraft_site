@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import Card from "../components/Card";
+
 import Topic from "./components/Topic";
 import Link from "next/link";
 import { Button } from "@material-ui/core";
