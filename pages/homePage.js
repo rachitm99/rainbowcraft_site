@@ -5,6 +5,7 @@ function HomePage() {
     return (
         <div>
             <h1>Hello world</h1>
+        <h1>YOLO</h1>
         </div>
     )
 }
